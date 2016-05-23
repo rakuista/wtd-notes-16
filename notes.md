@@ -57,7 +57,7 @@ Put issues on GitHub
 
 
 
- ### Other
+### Other
 
  Missed the slide
 
@@ -68,7 +68,7 @@ Software is a core part of how government works - "It would be in the constituti
 
 **Copyright does not apply to US government works**
 
- - It's ahrd to read contribute or reuse code that isn't well documented
+ - It's hard to read contribute or reuse code that isn't well documented
 
 
 ### What If
