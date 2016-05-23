@@ -66,5 +66,14 @@ Public Service + open source + documentation = of the people, by the people, for
 
 Software is a core part of how government works - "It would be in the constitution if the founding fathers knew about it"
 
+**Copyright does not apply to US government works**
 
+ - It's ahrd to read contribute or reuse code that isn't well documented
+
+
+### What If
+
+More people felt like participants in their government
+
++ huge tons of skilled people wanted to work for or contract for the government.
 
