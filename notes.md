@@ -77,3 +77,12 @@ More people felt like participants in their government
 
 + huge tons of skilled people wanted to work for or contract for the government.
 
+
+
+### Links
+
+ - 18f.gsa.gov
+ - github.com/18f
+ - join.18f.gov
+
+Also check out: U.S. Digital Service & Presidential Innovation Fellows
