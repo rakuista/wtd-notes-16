@@ -10,3 +10,61 @@ Works for GSA - General Services Administration - 18F: Technology consulting tea
  - Agile / iterative
 
  - OS / FOSS
+
+
+Goals of 18F
+
+ - Raise the Bar
+ - Empower people
+ - Improve Procurement
+ - Teach people
+ - Build platforms
+ - Recruit people
+
+
+[RFP](https://en.wikipedia.org/wiki/Request_for_proposal) Ghost Writing
+
+
+### Content Design
+
+ - Content Stratergy
+ - Interface copy
+ - Documentation
+ - Blog posts
+ - information architecture
+ - editing
+ - user research
+ - usability testing
+ - etc
+
+**Intersection of Software + Law + Bureaucracy**
+
+### eRegulations
+
+A Platform to Read Regulations
+
+Standardized how Regulations are written to be readable across multiple government agencies.
+
+Also wrote documentation on regulations themselves.
+
+Asking Questions + writing precisely + iterating = .... (missed the slide end)
+
+### Draft federal source code policy
+
+Drafted a policy to share with all agencies to open-source at least 20% of code and share code with other agencies
+
+Put issues on GitHub
+
+
+
+ ### Other
+
+ Missed the slide
+
+
+Public Service + open source + documentation = of the people, by the people, for the people
+
+Software is a core part of how government works - "It would be in the constitution if the founding fathers knew about it"
+
+
+
